@@ -13,6 +13,7 @@ Hello and welcome to the Challenges of Quest - Qiskit Fall Fest.
   4. You may use the WhatsApp group and open house to solve doubts. However, plagiarism will not be tolerated.
 
 You can refer to this following colab notebook to get started with the challenges - 
+https://colab.research.google.com/drive/1XQVEsEwJkJxP1YARgacGYQC1oLSs7EhC
 
 ### Challenge Links: 
 
