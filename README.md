@@ -13,7 +13,7 @@ The Fall Fest here at BITS Goa is going to be a hackathon, starting on November 
 To officially sign up, register using [this link](https://forms.gle/e536obrzoLkgg543A)
   
 ## Challenges Details 
-You can find the problem statement and rules of the challenges [here]()
+You can find the problem statement and rules of the challenges [here](https://github.com/qBITS-github/Quest-2023/blob/main/challenges.md)
 
 ## Schedule
 
