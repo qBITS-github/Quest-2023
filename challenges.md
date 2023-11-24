@@ -17,4 +17,4 @@ https://colab.research.google.com/drive/1XQVEsEwJkJxP1YARgacGYQC1oLSs7EhC
 
 ### Challenge Links: 
 
-Challenge 1 - 
+Challenge 1 - https://colab.research.google.com/drive/1K5_RcGrvtJxU0R2NQuO3babMte2Y8HHF?usp=sharing
