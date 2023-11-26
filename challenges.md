@@ -19,9 +19,10 @@ https://colab.research.google.com/drive/1vdtuXxypglPr_aQuRZwf3h545nZ5ZotE?usp=sh
 
 Challenge 1 - https://colab.research.google.com/drive/1K5_RcGrvtJxU0R2NQuO3babMte2Y8HHF?usp=sharing
 <br>
-Challenge 2 - 
+Challenge 2 - https://drive.google.com/file/d/1w7EHwxpLOYR0ZbmQ0vSaVBZnq0r6V64d/view?usp=sharing
 <br>
 Challenge 3 - 
 <br>
-
+Note: Submit whatever you have done till now and don't wait for the end of deadline (deadline is 6 PM).
+<br>
 Submission link for challenges - https://forms.gle/2Nr1SdRWdtci3hRZA
